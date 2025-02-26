@@ -1,0 +1,7 @@
+README.md
+setup.py
+relaseRepo/__init__.py
+relaseRepo.egg-info/PKG-INFO
+relaseRepo.egg-info/SOURCES.txt
+relaseRepo.egg-info/dependency_links.txt
+relaseRepo.egg-info/top_level.txt

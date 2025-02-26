@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: relaseRepo
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/sirmax28/relaserepo
+Author: Samuel Steven
+Author-email: test@test.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
